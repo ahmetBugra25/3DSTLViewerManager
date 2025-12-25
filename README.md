@@ -1,3 +1,5 @@
+!!NOT: Uygulama Google Play Store üzerinde yayınlanacağı için uygulamanın kodları paylaşılmamıştır.
+
 🚀 Yeni Proje: 3D STL Görüntüleyici ve Model Yönetim Uygulaması
 
 3D baskı meraklıları ve profesyoneller için geliştirilmiş kapsamlı bir Android uygulaması üzerinde çalıştım. Proje, modern Android geliştirme pratiklerini ve ileri düzey 3D render teknolojilerini bir araya getiriyor.
